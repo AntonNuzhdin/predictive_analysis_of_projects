@@ -22,9 +22,9 @@
 
 Также тут можно найти инструкции, написание которых также входило в перечень задач, поставленных нашим научным руководителем. В числе этих инструкций:
 
-1. Инструкция по разворачиванию серверов с Apache Superset
-2. Инструкция по подключению Postgres к Superset
-
+1. [Инструкция](https://github.com/AntonNuzhdin/predictive_analysis_of_projects/tree/main/Развертка%20сервера%20Apache%20Superset%20и%20подключение%20Postgres/Разворачивание%20сервера%20с%20Superset) по разворачиванию серверов с Apache Superset
+2. [Инструкция](https://github.com/AntonNuzhdin/predictive_analysis_of_projects/tree/main/Развертка%20сервера%20Apache%20Superset%20и%20подключение%20Postgres/Подключение%20Postgres%20к%20Superset) по подключению Postgres к Superset
+3. [Инструкция](https://github.com/AntonNuzhdin/predictive_analysis_of_projects/tree/main/Развертка%20сервера%20Apache%20Superset%20и%20подключение%20Postgres/Установка%20PostgreSQL) по установке PostgreSQL
 Также нами были написаны описания математических моделей, которые были получены в результате работы, а также Excel файл с их тестированием. 
 
 
