@@ -28,6 +28,6 @@
 3. [Инструкция](https://github.com/AntonNuzhdin/predictive_analysis_of_projects/tree/main/Развертка%20сервера%20Apache%20Superset%20и%20подключение%20Postgres/Установка%20PostgreSQL) по установке PostgreSQL
 
 
-Также нами были написаны описания математических моделей, которые были получены в результате работы, а также Excel файл с их тестированием. 
+Также нами были написаны [описания математических моделей](https://github.com/AntonNuzhdin/predictive_analysis_of_projects/tree/main/Описание%20математических%20моделей), которые были получены в результате работы, а также Excel файл с их тестированием. 
 
 
